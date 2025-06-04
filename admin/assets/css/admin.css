@@ -1,0 +1,24 @@
+body {
+    margin: 0;
+    color: #000000;
+    background: #c8c8c8;
+    font: 600 16px/18px 'Open Sans', sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.login-box {
+    width: 100%;
+    background: url("../images/aeamt-building.jpg") no-repeat center;
+    box-shadow: 0 12px 15px 0 rgba(0,0,0,.24), 0 17px 50px 0 rgba(0,0,0,.19);
+}
+
+.login-snip {
+    height: 100%;
+    width: 450px;
+    min-height: 500px;
+    padding: 90px 70px 50px 70px;
+    background: rgba(159, 243, 243, 0.9);
+}
